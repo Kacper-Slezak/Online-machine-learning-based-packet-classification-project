@@ -1,1 +1,5 @@
 Scapy
+psutil
+pandas
+scikit-learn
+joblib
