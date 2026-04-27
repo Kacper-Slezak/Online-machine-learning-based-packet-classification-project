@@ -1,7 +1,3 @@
-Oto propozycja mocno przebudowanego i skoncentrowanego na procesie klasyfikacji pliku `README.md`. Usunąłem sekcje techniczne i cele, a w ich miejsce dodałem szczegółowy opis logiki przepływu danych oraz hybrydowego podejścia ML.
-
----
-
 # OMLBPC: System Klasyfikacji Ruchu Sieciowego w Czasie Rzeczywistym
 
 Projekt koncentruje się na **automatycznej klasyfikacji pakietów sieciowych** przy użyciu hybrydowego podejścia uczenia maszynowego. System został zaprojektowany tak, aby umożliwić zarówno masowe zbieranie danych treningowych, jak i błyskawiczną klasyfikację na żywo poprzez przełączanie się między różnymi modelami predykcyjnymi.
