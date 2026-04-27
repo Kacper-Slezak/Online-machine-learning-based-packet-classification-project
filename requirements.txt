@@ -3,3 +3,4 @@ psutil
 pandas
 scikit-learn
 joblib
+psutil
