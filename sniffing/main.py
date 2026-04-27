@@ -9,7 +9,6 @@ from scapy.layers.inet import IP, TCP, UDP
 from capture_utils import get_local_ips, find_best_interface, PortMap, FlowCache, WriterPool
 from feature_extractor import FeatureExtractor
 
-# --- Konfiguracja ---
 TARGET_APPS = ["spotify", "teams", "chrome"]  # Zdefiniuj co nas interesuje do nauki
 DIR_FOR_SAVING = "traffic_logs"
 os.makedirs(DIR_FOR_SAVING, exist_ok=True)

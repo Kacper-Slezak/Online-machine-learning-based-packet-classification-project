@@ -1,4 +1,3 @@
-# feature_extractor.py
 import csv
 import time
 import os
