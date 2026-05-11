@@ -10,6 +10,10 @@ numpy>=1.24.0         # Zaawansowana matematyka (percentyle, mediany, odchylenia
 scikit-learn>=1.3.0   # Implementacja Random Forest, metryki, podział zbiorów
 joblib>=1.3.0         # Zapisywanie i wczytywanie wytrenowanych modeli na dysk
 
+# === Wizualizacja (Raporty i wykresy RF) ===
+matplotlib>=3.7.0     # Wykresy: macierz pomyłek, feature importance, CV scores
+seaborn>=0.12.0       # Heatmapa macierzy korelacji cech
+
 # === [Na przyszłość] Głębokie uczenie (CNN) ===
 # torch>=2.0.0        # PyTorch - Odkomentować, gdy zaczniecie robić sieci neuronowe
 # torchvision>=0.15.0 # Pomocnicze funkcje wizyjne dla PyTorcha
